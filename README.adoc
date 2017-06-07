@@ -1,3 +1,5 @@
+tutorial url:https://spring.io/guides/gs/messaging-rabbitmq/
+
 ---
 tags: [messaging, rabbitmq, stream]
 projects: [spring-amqp,spring-cloud-stream]
